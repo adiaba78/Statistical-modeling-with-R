@@ -1,4 +1,4 @@
-Statistical Modeling Essentials with R
+# Statistical Modeling Essentials with R
 
 You can use the [editor on GitHub](https://github.com/adiaba78/Statitical-modeling-with-R/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
